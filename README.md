@@ -1,4 +1,4 @@
-<h1 align="center">Title : OLA_UBER_TRIP_ANALYSIS_NAMMA_YATRI_DATABASE</h1>
+<h1 align="center">Title : OLA UBER TRIP ANALYSIS NAMMA YATRI DATABASE</h1>
 
 <div align= "center">
     <h3>Business Problem: Enhancing Trip Efficiency, Revenue Generation, and Customer Satisfaction for NAMMA YATRI APP</h3><br>
