@@ -33,6 +33,9 @@
 ### Conclusion:
 #### By focusing on improving trip efficiency, maximizing revenue, and enhancing customer satisfaction, the ridesharing company can strengthen its position in the market, attract more customers, and achieve sustainable growth in the long run. Implementing a combination of strategic initiatives and performance tracking mechanisms will be essential to achieving these objectives effectively.
 
+### Here is link given for dashboard
+- <a href="https://app.powerbi.com/groups/me/reports/cb4e9fc1-b702-467a-bb43-afc99b64c9f7/ReportSection?experience=power-bi">Namma Yatri Trips Dashboard</a>
+
 ### How to approach the problem
 ```
 Run the ".sql" file in your database
