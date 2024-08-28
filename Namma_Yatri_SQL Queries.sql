@@ -74,7 +74,6 @@ order by t.faremethod desc limit 1;
 select  p.method as "Payment Method", max(t.fare) as "Highest Transaction" from trips t join payment p
 on p.id= t.faremethod ;
 
-
 -- which two locations had the most trips
 select * from loc;
 
